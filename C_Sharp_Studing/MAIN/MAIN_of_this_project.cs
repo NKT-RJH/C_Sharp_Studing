@@ -69,6 +69,21 @@ namespace C_Sharp_Studing
                 case 19:
                     Const_and_Readonly.Method();
                     break;
+                case 20:
+                    Value_Type_Reference_Type_ref.Method();
+                    break;
+                case 21:
+                    Send_arrange_object_to_Method.Method();
+                    break;
+                case 22:
+                    NULL_Condition_Operator.Method();
+                    break;
+                case 23:
+                    Intalization_of_Variable_and_Default.Method();
+                    break;
+                case 24:
+                    nullable.Method();
+                    break;
             }
         }
     }
